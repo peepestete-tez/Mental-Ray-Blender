@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "mentalray_90s"
+version = "0.3.0"
+name = "Mental Ray (Softimage 3/4 era)"
+tagline = "Standalone ray-trace render engine modelled on mental ray 3.x"
+maintainer = "Community"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
